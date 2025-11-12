@@ -1,0 +1,16 @@
+{
+  "switches": [
+    {
+      "hostname_IP": "172.16.22.19",
+      "user": "franz",
+      "password": "sepp",
+      "archive": true
+    },
+    {
+      "hostname_IP": "switch02.example.org",
+      "user": "COUNT",
+      "password": "IT",
+      "archive": false
+    }
+  ]
+}
